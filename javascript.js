@@ -24,7 +24,7 @@ aPerson.sayHello();
 let day;
 switch (new Date().getDay()) {
   case 0:
-    day = "Dimanche";
+    day = "Dimnanche";
     break;
   case 1:
     day = "Lundi";
